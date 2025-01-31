@@ -32,4 +32,8 @@ The primary goal is to analyze and predict player engagement levels based on the
 * Insights for game developers and marketers to enhance player retention and improve overall gaming experience
 - Optimize engagement strategies 🧩:
 * Suggest interventions such as tailored rewards, challenges, or personalized recommendations to maximize player engagement and retention
-
+5. Machine Learnig models results:
+![Machine Learning models results](../prediction/model_results.csv)
+Cat boost was the best performing model for predicting player retention (92% accuracy)
+6. Feature importance for best model:
+![Machine Learning models results](../figures/best%20model%20feature%20importance.png)
